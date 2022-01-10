@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = charles.moreau13@gmail.com
+	name = Charles Moreau
